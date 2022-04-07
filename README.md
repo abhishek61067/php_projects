@@ -1,2 +1,2 @@
 # php_projects
-php basics and small projects!
+php basics and projects including ecommerce!
